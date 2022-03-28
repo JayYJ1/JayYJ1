@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JayYJ1&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JayYJ1&layout=compact&theme=great-gatsby)](https://github.com/anuraghazra/github-readme-stats)
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JayYJ1&theme=great-gatsby&show_icons=true&locale=kr&disable_animations=false)](https://github.com/anuraghazra/github-readme-stats)
