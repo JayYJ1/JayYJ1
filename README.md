@@ -4,9 +4,9 @@
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JayYJ1&theme=great-gatsby&show_icons=true&locale=kr&disable_animations=false)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://api.opgc.me/githubs/users/{{JayYJ1}}/tag/?theme=basic" />
 <!--
 **JayYJ1/JayYJ1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-<img src="https://api.opgc.me/githubs/users/{{JayYJ1}}/tag/?theme=basic" />
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
