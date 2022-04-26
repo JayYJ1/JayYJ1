@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+ ⚡ Fun fact:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JayYJ1&layout=compact&theme=great-gatsby)](https://github.com/anuraghazra/github-readme-stats)
 
 
