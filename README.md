@@ -2,8 +2,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JayYJ1&layout=compact&theme=great-gatsby)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JayYJ1&theme=great-gatsby&show_icons=true&locale=kr&disable_animations=false)](https://github.com/anuraghazra/github-readme-stats)
-<a href="https://opgc.me/#/users/JayYJ1" target="_blank"><img src="https://api.opgc.me/githubs/users/JayYJ1/tag/?theme=basic" /></a>
+<!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JayYJ1&theme=great-gatsby&show_icons=true&locale=kr&disable_animations=false)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://opgc.me/#/users/JayYJ1" target="_blank"><img src="https://api.opgc.me/githubs/users/JayYJ1/tag/?theme=basic" /></a>-->
 
 <!--![PHP](https://img.shields.io/badge/php-777BB4?style=flat&logo=&logoColor=white)-->
 
